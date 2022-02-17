@@ -76,8 +76,8 @@ body {
           box-shadow: 0 10px 20px 10px rgba(65, 65, 65, 0.5);
   -webkit-transform: scale(0);
           transform: scale(0);
-  -webkit-transition: 0.2s cubic-bezier(0.06, 0.95, 0.24, 1.52);
-  transition: 0.2s cubic-bezier(0.06, 0.95, 0.24, 1.52);
+  -webkit-transition: 0.2s cubic-bezier(0, 0.78, 0.83, 0.67);
+  transition: 0.2s cubic-bezier(0, 0.78, 0.83, 0.67);
 }
 
 .films-list li img {
